@@ -1,6 +1,6 @@
 # TinyBase
 
-A <em>reactive</emdata store <span>& <em>sync</emengine</span>.
+A <em>reactive</em> data store <span>& <em>sync</em>engine</span>.
 
 <a class='start' href='https://tinybase.org/guides/the-basics/getting-started/'>Get started</a>
 
